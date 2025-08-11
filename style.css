@@ -1,0 +1,35 @@
+/* Styles/style.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #343a40;
+}
+
+.navbar-brand img {
+  border-radius: 50%;
+}
+
+.btn-primary {
+  background-color: #ff6f61;
+  border-color: #ff6f61;
+}
+
+.btn-primary:hover {
+  background-color: #e65b50;
+  border-color: #e65b50;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+
+  
